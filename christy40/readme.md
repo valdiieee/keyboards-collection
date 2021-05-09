@@ -1,5 +1,8 @@
 # EXPLANATION
 
+![IMG_20210506_233044](https://user-images.githubusercontent.com/50755960/117558211-8016c380-b0a5-11eb-8ee5-1da7244ac399.jpg)
+![IMG_20210506_232933](https://user-images.githubusercontent.com/50755960/117558214-87d66800-b0a5-11eb-89a5-b3df7973d499.jpg)
+
 * [Case](https://github.com/valdiieee/keyboards/tree/main/christy40/Case)
   : all files that needed to make stacked acrylic
 * [christy40](https://github.com/valdiieee/keyboards/tree/main/christy40/christy40)
