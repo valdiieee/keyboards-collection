@@ -4,12 +4,12 @@
 ![IMG_20210506_232933](https://user-images.githubusercontent.com/50755960/117558214-87d66800-b0a5-11eb-89a5-b3df7973d499.jpg)
 
 * [Case](https://github.com/valdiieee/keyboards/tree/main/christy40/Case)
-  : all files that needed to make stacked acrylic
+  : all files that needed to make stacked acrylic case
 * [christy40](https://github.com/valdiieee/keyboards/tree/main/christy40/christy40)
   : un-compiled firmware in case you want to edit the keymap etc ( VIA not supported yet )
 * [handwired guide](https://github.com/valdiieee/keyboards/tree/main/christy40/handwired%20guide)
   : all pictures that will help you to build the keyboard
-* [hex]()
+* [hex](https://github.com/valdiieee/keyboards/tree/main/christy40/Hex)
   : compiled firmware, ready to flash using qmk toolbox, download it [here](https://github.com/qmk/qmk_toolbox/releases)
 
 Got any questions? Reach me at my Instagram [here](https://www.instagram.com/valdydesu_/)
