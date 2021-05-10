@@ -1,2 +1,2 @@
 # keyboards
-custom keyboard with qmk firmware support
+Open-source handwired mechanical keyboard with QMK support
