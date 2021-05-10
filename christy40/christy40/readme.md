@@ -4,7 +4,7 @@ Handwired 40% mechanical keyboard with standard 104 keys keycaps compability
 
 * Keyboard Maintainer: [Valdy](https://github.com/valdiieee)
 * Hardware Supported: Pro Micro, MX Style Switches, 1n4148 diodes
-* Hardware Availability: Private GB
+* Hardware Availability: DIY Handwired and Private GB
 
 Make example for this keyboard (after setting up your build environment):
 
